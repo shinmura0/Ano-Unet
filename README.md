@@ -1,5 +1,5 @@
 # Ano-Unet
-Ano-Unet can visualize abnormal parts
+Ano-Unet can visualize abnormal parts.
 
 ![fig1](https://github.com/shinmura0/Ano-Unet/blob/master/fig.png "fig1")
 
